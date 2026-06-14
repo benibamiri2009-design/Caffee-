@@ -1,0 +1,82 @@
+<!DOCTYPE html><html lang="fa" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>کافه عبدالصمد</title>
+<style>
+body{
+    font-family:tahoma,sans-serif;
+    background:#f5f1eb;
+    margin:0;
+    padding:20px;
+    color:#333;
+}
+.container{
+    max-width:700px;
+    margin:auto;
+    background:white;
+    padding:20px;
+    border-radius:15px;
+    box-shadow:0 0 15px rgba(0,0,0,.1);
+}
+h1{
+    text-align:center;
+    color:#6f4e37;
+}
+.section{
+    margin-top:25px;
+}
+.section h2{
+    border-bottom:2px solid #6f4e37;
+    padding-bottom:5px;
+}
+.item{
+    display:flex;
+    justify-content:space-between;
+    margin:10px 0;
+    font-size:18px;
+}
+.footer{
+    margin-top:30px;
+    text-align:center;
+    color:#666;
+}
+</style>
+</head>
+<body><div class="container">
+    <h1>☕ کافه عبدالصمد</h1><div class="section">
+    <h2>قهوه گرم</h2>
+    <div class="item">
+        <span>اسپرسو</span>
+        <span>80</span>
+    </div>
+    <div class="item">
+        <span>آمریکانو</span>
+        <span>95</span>
+    </div>
+    <div class="item">
+        <span>لاته</span>
+        <span>120</span>
+    </div>
+</div>
+
+<div class="section">
+    <h2>نوشیدنی سرد</h2>
+    <div class="item">
+        <span>آیس لاته</span>
+        <span>200</span>
+    </div>
+    <div class="item">
+        <span>آیس آمریکانو</span>
+        <span>180</span>
+    </div>
+</div>
+
+<div class="footer">
+    <p>تلفن: ---</p>
+    <p>اینستاگرام: ---</p>
+    <p>آدرس: ---</p>
+</div>
+
+</div></body>
+</html>
